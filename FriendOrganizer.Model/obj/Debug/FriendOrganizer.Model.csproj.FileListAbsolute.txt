@@ -1,0 +1,6 @@
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.dll
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\bin\Debug\FriendOrganizer.Model.pdb
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.csprojResolveAssemblyReference.cache
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.csproj.CoreCompileInputs.cache
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.dll
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.Model\obj\Debug\FriendOrganizer.Model.pdb
