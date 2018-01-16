@@ -24,3 +24,11 @@ C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Friend
 C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.xml
 C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.SqlServer.dll
 C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\NavigationView.g.cs
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\NavigationView.baml
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\FriendDetailView.g.cs
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\View\FriendDetailView.baml
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Prism.dll
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\bin\Debug\Prism.xml
+C:\Users\Daniel\source\repos\FriendOrganizer\FriendOrganizer.UI\obj\Debug\App.baml

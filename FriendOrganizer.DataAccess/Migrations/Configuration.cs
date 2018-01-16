@@ -1,19 +1,16 @@
 namespace FriendOrganizer.DataAccess.Migrations
 {
     using FriendOrganizer.Model;
-    using System;
-    using System.Data.Entity;
     using System.Data.Entity.Migrations;
-    using System.Linq;
 
-    internal sealed class Configuration : DbMigrationsConfiguration<FriendOrganizer.DataAccess.FriendOrganizerDBContext>
+    internal sealed class Configuration : DbMigrationsConfiguration<FriendOrganizerDBContext>
     {
         public Configuration()
         {
             AutomaticMigrationsEnabled = false;
         }
 
-        protected override void Seed(FriendOrganizer.DataAccess.FriendOrganizerDBContext context)
+        protected override void Seed(FriendOrganizerDBContext context)
         {
             context.Friends.AddOrUpdate(
                 f => f.FirstName,
